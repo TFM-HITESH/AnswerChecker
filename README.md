@@ -4,15 +4,6 @@
 
 ![Next - A simple authentication service](/.github/screenshots/img_2.png "Next - A simple authentication service")
 
-[![Ask Me Anything!](https://flat.badgen.net/static/Ask%20me/anything?icon=github&color=black&scale=1.01)](https://github.com/pedrojorge148 "Ask Me Anything!")
-[![GitHub license](https://flat.badgen.net/github/license/pedrojorge148/auth-next?icon=github&color=black&scale=1.01)](https://github.com/pedrojorge148/auth-next/blob/main/LICENSE "GitHub license")
-[![Maintenance](https://flat.badgen.net/static/Maintained/yes?icon=github&color=black&scale=1.01)](https://github.com/pedrojorge148/auth-next/commits/main "Maintenance")
-[![GitHub branches](https://flat.badgen.net/github/branches/pedrojorge148/auth-next?icon=github&color=black&scale=1.01)](https://github.com/pedrojorge148/auth-next/branches "GitHub branches")
-[![Github commits](https://flat.badgen.net/github/commits/pedrojorge148/auth-next?icon=github&color=black&scale=1.01)](https://github.com/pedrojorge148/auth-next/commits "Github commits")
-[![Netlify Status](https://api.netlify.com/api/v1/badges/8f6a1f3f-82b3-4898-b3f3-87030da18b16/deploy-status)](https://nextoauth.netlify.app "Netlify Status")
-[![GitHub issues](https://flat.badgen.net/github/issues/pedrojorge148/auth-next?icon=github&color=black&scale=1.01)](https://github.com/pedrojorge148/auth-next/issues "GitHub issues")
-[![GitHub pull requests](https://flat.badgen.net/github/prs/pedrojorge148/auth-next?icon=github&color=black&scale=1.01)](https://github.com/pedrojorge148/auth-next/pulls "GitHub pull requests")
-
 <!-- Table of Contents -->
 <details>
 
