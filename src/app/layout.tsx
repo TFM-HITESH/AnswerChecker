@@ -11,8 +11,8 @@ const fontSans = FontSans({
 
 export const metadata: Metadata = {
   title: {
-    template: "%s | Auth Next",
-    default: "Auth Next",
+    template: "Auth Next",
+    default: "Answer Checker",
   },
   description: "A simple authentication service with Auth Next v5!",
 };

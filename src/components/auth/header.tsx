@@ -13,7 +13,7 @@ interface HeaderProps {
 export function Header({ label }: HeaderProps) {
   return (
     <div className="flex w-full flex-col gap-4 items-center justify-center">
-      <h1 className={cn("text-3xl font-semibold", font.className)}>🔐 Auth</h1>
+      <h1 className={cn("text-3xl font-semibold", font.className)}> Auth</h1>
       <p className="">{label}</p>
     </div>
   );
